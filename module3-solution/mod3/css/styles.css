@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+a:link {
+    color: black;
+
+}
+
+body {
+    font-size 16px;
+    color: black;  
+    font-family: 'oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: lightseagreen;
+    border-radius: 0;
+    border: 3px solid black;    
+}
+
+h1 {
+    margin: 20px;
+    float: left;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bolder;
+
+}
+section {
+    position: relative;
+    background-color: lightgray;
+    overflow: auto;
+    margin: 10px 20px;
+    height: 500px;
+}
+ul {
+    text-align: center;
+    font-weight: bold;
+}
+
+.headline {
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+}
+
+#nav-list {
+    background-color: burlywood;
+
+}
